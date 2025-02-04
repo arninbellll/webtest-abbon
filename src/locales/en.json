@@ -1,0 +1,28 @@
+{
+    "title": "Hello",
+    "language":{
+        "th": "TH",
+        "en": "EN"
+    },
+    "profile": "Profile",
+    "description": "Welcome to React and react-i18next",
+    "button": "Change language",
+    "footer": "Footer",
+    "header": "Header",
+    
+    "create": {
+        "header": "Create Contact",
+        "p_name": "Name",
+        "p_age": "Age",
+        "add_btn": "Create",
+        "can_btn": "Cancel",
+         "alert1": "Success",
+        "alert2": "Error!",
+        "text1": "Your contact has been successfully added.",
+        "text2": "Your contact has been added."
+    },
+    "list": {
+        "header": "List contact",
+            "btn": "Delete"
+    }
+}

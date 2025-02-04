@@ -1,0 +1,28 @@
+ {
+    "title": "Hello",
+    "language":{
+        "th": "ไทย",
+        "en": "อังกฤษ"
+    },
+    "profile": "โปรไฟล์",
+    
+    "description": "Welcome to React and react-i18next",
+    "button": "Change language",
+    "footer": "Footer",
+    "header": "Header",
+    "list": {
+            "header": "รายชื่อ",
+            "btn": "ลบ"
+    },
+    "create": {
+        "header": "สร้างรายชื่อ",
+        "p_name": "ชื่อ",
+        "p_age": "อายุ",
+        "add_btn": "สร้าง",
+        "can_btn": "ยกเลิก",
+         "alert1": "สำเร็จ",
+        "alert2": "พบข้อผิดพลาด!",
+        "text1": "สร้างรายชื่อสำเร็จแล้ว.",
+        "text2": "รายชื่อถูกสร้างไปแล้ว"
+    }
+}
